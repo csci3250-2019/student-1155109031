@@ -2,6 +2,7 @@
 
 ## Something about me
 My name is Li Cheuk Ho, Patrick. I am a Year 2 ~~toxicJ~~ *Computer Science* student.  
+Language I learnt before : Pascal, C, Java  
 I am a newbie to Github but i am glad to try something new.
 
 ## Why study Engineering/Computer Science?
